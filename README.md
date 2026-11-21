@@ -1,4 +1,4 @@
 # Kelp Hub
-Making a few softwares to make gameplay easier By applying modded content into games.
+Software made for making gameplay easier.
 
 https://discord.gg/ezBrRqJSuU
